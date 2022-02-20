@@ -1,7 +1,7 @@
-# DAC 2021 Design Contest
+# DAC 2022 Design Contest
 
 # Note:
-These files are still under development.  They should be stable by the end of January.
+These files are still under development.  They should be stable by the end of February.
 
 For full contest details, please see the [2021 DAC System Design Contest](https://dac-sdc-2021.groups.et.byu.net/doku.php) page.
 
