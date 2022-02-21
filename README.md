@@ -1,6 +1,6 @@
 # DAC 2022 Design Contest
 
-For full contest details, please see the [2022 DAC System Design Contest](https://dac-sdc-2021.groups.et.byu.net/doku.php) page.
+For full contest details, please see the [2022 DAC System Design Contest](https://byuccl.github.io/dac_sdc_2022/) page.
 
 For general questions regarding this contest, please use the Piazza page: piazza.com/dac_2018/winterterm12021/dacsdc2021
 
