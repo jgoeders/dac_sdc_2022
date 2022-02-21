@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<results>
-		<runtime>1.5473694801330566</runtime>
-		<energy>2.369409516453743</energy>
+		<runtime>1.9738342761993408</runtime>
+		<energy>2.9607514142990112</energy>
 		<image>
 			<filename>0.jpg</filename>
 			<size>
@@ -11,9 +11,9 @@
 			<object>
 				<bndbox>
 					<xmin>50</xmin>
-					<xmax>358</xmax>
-					<ymin>75</ymin>
-					<ymax>263</ymax>
+					<xmax>90</xmax>
+					<ymin>70</ymin>
+					<ymax>130</ymax>
 				</bndbox>
 			</object>
 		</image>
@@ -26,9 +26,9 @@
 			<object>
 				<bndbox>
 					<xmin>50</xmin>
-					<xmax>358</xmax>
-					<ymin>75</ymin>
-					<ymax>263</ymax>
+					<xmax>90</xmax>
+					<ymin>70</ymin>
+					<ymax>130</ymax>
 				</bndbox>
 			</object>
 		</image>
