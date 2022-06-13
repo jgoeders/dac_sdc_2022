@@ -84,7 +84,7 @@ class Team:
             if len(object_locations) != len(rgb_imgs):
                 raise ValueError(
                     str(len(rgb_imgs))
-                    + " images provided, but only "
+                    + " images provided, but "
                     + str(len(object_locations))
                     + " object locations returned."
                 )
